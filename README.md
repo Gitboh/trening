@@ -1,1 +1,1 @@
-# TRENING
+# trening
